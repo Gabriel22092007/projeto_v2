@@ -1,0 +1,79 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color:silver;
+    font-size: 20px;
+}
+
+#navbar{
+    text-align: center;
+    background-color:red;
+    color: blueviolet(0, 162, 255);
+}
+
+
+#noticias{
+    display: flex;
+    justify-content: space-between;
+}
+
+.noticia{
+    text-align: center;
+    background-color:greenyellow;
+    padding: 5px;
+    border-style: solid;
+    border-color:indigo;
+    width: 300px;
+}
+   
+
+#rodape{
+    padding: 10px;
+    background-color: rgb(255, 166, 0);
+    text-align: center;
+}
+
+img{
+    height: 200px;
+    width: 300px;
+    
+}
+
+#Curiosidades{
+    display: flex;
+    justify-content: space-between;
+}
+.curiosidade{
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+}
+
+#aliados{
+    display: flex;
+    justify-content: space-between;
+}
+
+.aliado{
+    text-align: center;
+    background-color:greenyellow;
+    padding: 5px;
+    border-style: solid;
+    border-color:indigo;
+    width: 300px;
+}
+
+#viloes{
+    display: flex;
+    justify-content: space-between;
+}
+
+.vilao{
+    text-align: center;
+    background-color:greenyellow;
+    padding: 5px;
+    border-style: solid;
+    border-color:indigo;
+    width: 300px;
+}
