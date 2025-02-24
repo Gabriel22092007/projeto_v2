@@ -21,7 +21,7 @@ body{
     background-color:darkgreen;
     padding: 5px;
     border-style: solid;
-    border-color:indigo;
+    border-color:goldenrod;
     width: 300px;
 }
    
@@ -57,7 +57,7 @@ h1{
 
 .aliado{
     text-align: center;
-    background-color:greenyellow;
+    background-color:darkgreen;
     padding: 5px;
     border-style: solid;
     border-color:indigo;
@@ -71,7 +71,7 @@ h1{
 
 .vilao{
     text-align: center;
-    background-color:greenyellow;
+    background-color:darkgreen;
     padding: 5px;
     border-style: solid;
     border-color:indigo;
